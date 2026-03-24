@@ -3,7 +3,7 @@
 
 export const personalInfo = {
   name: "Rupesh Raj",
-  title: "Engineering Student · Developer",
+  title: "Software Developer",
   tagline: "Building innovative hardware and software solutions for real-world problems.",
   description:
     "Passionate engineering student focused on developing practical systems combining electronics, embedded technology, and software. Interested in creating solutions that improve everyday life through technology.",
